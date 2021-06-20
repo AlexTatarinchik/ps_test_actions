@@ -12,11 +12,15 @@
 			"jobs" : [
 				{
 					"name" : "Blue",
-					"preview_url" : ""
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/previews/blue.jpg"
 				},
 				{
 					"name" : "Orange",
-					"preview_url" : ""
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/previews/orange.jpg"
+				},
+				{
+					"name" : "Violet",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/previews/violet.jpg"
 				}
 			]
 		},
