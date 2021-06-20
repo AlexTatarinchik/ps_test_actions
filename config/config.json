@@ -52,6 +52,35 @@
 					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/VexelArt/previews/grey.jpg"
 				}
 			]
+		},
+		{
+			"name" : "Fractal",
+			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/v1/Fractal.atn",
+			"action_storage" : "external",
+			"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/previews/main_preview.jpg",
+			"require_mask" : 1,
+			"jobs" : [
+				{
+					"name" : "LEFT",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/previews/left.jpg"
+				},
+				{
+					"name" : "RIGHT",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/previews/right.jpg"
+				},
+				{
+					"name" : "DOWN",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/previews/down.jpg"
+				},
+				{
+					"name" : "UP",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/previews/up.jpg"
+				},
+				{
+					"name" : "MIDDLE",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/previews/middle.jpg"
+				}
+			]
 		}
 	]
 }
