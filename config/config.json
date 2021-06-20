@@ -5,7 +5,7 @@
 	"effects" : [
 		{
 			"name" : "Lightning",
-			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/v2/Lightning.atn",
+			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/v3/Lightning.atn",
 			"action_storage" : "external",
 			"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/previews/main_preview.jpg",
 			"require_mask" : 1,
