@@ -19,6 +19,23 @@
 					"preview_url" : ""
 				}
 			]
+		},
+		{
+			"name" : "VexelArt",
+			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/VexelArt/v1/VexelArt.atn",
+			"action_storage" : "external",
+			"preview_url" : "",
+			"require_mask" : 0,
+			"jobs" : [
+				{
+					"name" : "Red",
+					"preview_url" : ""
+				},
+				{
+					"name" : "No_color",
+					"preview_url" : ""
+				}
+			]
 		}
 	]
 }
