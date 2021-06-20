@@ -33,11 +33,19 @@
 			"jobs" : [
 				{
 					"name" : "Red",
-					"preview_url" : ""
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/VexelArt/previews/red.jpg"
 				},
 				{
 					"name" : "No_color",
-					"preview_url" : ""
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/VexelArt/previews/no_color.jpg"
+				},
+				{
+					"name" : "Violet",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/VexelArt/previews/violet.jpg"
+				},
+				{
+					"name" : "Grey",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/VexelArt/previews/grey.jpg"
 				}
 			]
 		}
