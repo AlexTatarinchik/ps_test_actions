@@ -5,7 +5,7 @@
 	"effects" : [
 		{
 			"name" : "Lightning",
-			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Lightning/v1/Lightning.atn",
+			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/v2/Lightning.atn",
 			"action_storage" : "external",
 			"preview_url" : "",
 			"require_mask" : 1,
@@ -22,7 +22,7 @@
 		},
 		{
 			"name" : "VexelArt",
-			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/VexelArt/v1/VexelArt.atn",
+			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/VexelArt/v1/VexelArt.atn",
 			"action_storage" : "external",
 			"preview_url" : "",
 			"require_mask" : 0,
