@@ -21,6 +21,10 @@
 				{
 					"name" : "Violet",
 					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/previews/violet.jpg"
+				},
+				{
+					"name" : "Green",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Lightning/previews/green.jpg"
 				}
 			]
 		},
