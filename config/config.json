@@ -71,6 +71,19 @@
 			]
 		},
 		{
+			"name" : "Starfield",
+			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Starfield/v1/Starfield.atn",
+			"action_storage" : "external",
+			"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Starfield/previews/main_preview.jpg",
+			"require_mask" : 1,
+			"jobs" : [
+				{
+					"name" : "Starfield",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Starfield/previews/Starfield.jpg"
+				}
+			]
+		},
+		{
 			"name" : "Fractal",
 			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/v1/Fractal.atn",
 			"action_storage" : "external",
