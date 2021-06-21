@@ -54,6 +54,19 @@
 			]
 		},
 		{
+			"name" : "MagicLines",
+			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/MagicLines/v1/MagicLines.atn",
+			"action_storage" : "external",
+			"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/MagicLines/previews/main_preview.jpg",
+			"require_mask" : 1,
+			"jobs" : [
+				{
+					"name" : "Make Straight Lines",
+					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/MagicLines/previews/lines.jpg"
+				}
+			]
+		},
+		{
 			"name" : "Fractal",
 			"action_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Fractal/v1/Fractal.atn",
 			"action_storage" : "external",
