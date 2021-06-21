@@ -83,5 +83,20 @@
 				}
 			]
 		}
+	],
+	"gallery" : [
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/1.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/2.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/3.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/4.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/5.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/6.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/7.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/8.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/9.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/10.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/11.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/12.jpg",
+		"https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Gallery/13.jpg"
 	]
 }
