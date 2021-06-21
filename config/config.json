@@ -78,7 +78,7 @@
 			"require_mask" : 1,
 			"jobs" : [
 				{
-					"name" : "Starfield",
+					"name" : "StarField",
 					"preview_url" : "https://raw.githubusercontent.com/AlexTatarinchik/ps_test_actions/main/Effects/Starfield/previews/Starfield.jpg"
 				}
 			]
